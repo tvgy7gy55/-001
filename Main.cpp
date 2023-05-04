@@ -14,4 +14,6 @@ int main()
 {
 	std::cout << "Project Singularity" << std::endl << std::endl;
 	printCir();
+
+	return 0;
 }
